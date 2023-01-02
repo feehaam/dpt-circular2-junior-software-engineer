@@ -8,8 +8,8 @@
 6. Create a button named counter which will count vowels in any name.
 7. Create a button named character which will find 3rd character of any name.
 8. Create a button named space which will replace space with hyphens.
-
-Optional <br/> 9. Create a button named sort which will sort the characters of any name using bubble sort algorithm..
+9. Create a button named sort which will sort the characters of any name using bubble sort algorithm.
+10. Create a button named sort which will sort the characters of any name using insertion sort algorithm..
 
 ==============================================================
 
