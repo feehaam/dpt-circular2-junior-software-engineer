@@ -1,0 +1,47 @@
+body{
+    background-color: #f8f8f8;
+}
+.main-block{
+    margin: auto;
+    max-width: 700px;
+    background-color: azure;
+    margin-top: 20px;
+    padding: 50px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+input{
+    width: 100%;
+    border: 1px solid rgb(136, 136, 136);
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px gray;
+    font-weight: bold;
+    color: #444;
+}
+
+.buttons{
+    margin: 10px;
+    text-align: center;
+}
+
+.output{
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.output-title{
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #f8f8f8;
+    font-weight: bold;
+}
+
+.output-body{
+    margin: 10px;
+    min-height: 20px;
+}
