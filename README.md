@@ -1,3 +1,22 @@
+# To run this project 
+1. On a terminal, navigate to this project/assignment1 folder
+2. Run command: npm install
+3. Run command: npm start
+4. Or you can just simply visit: https://dcjsefeeham.netlify.app (live)
+
+# Time taken
+1. Initial setup and start (Fork, React & others setup): 10 minutes (aprox.)
+2. Design (HTML, CSS): 15 minutes (aprox.)
+3. Functional implementation (JS): 40 minutes (aprox.)
+4. Finishing (Git, Build, Deploy): 10 minutes (aprox.)
+
+
+
+
+# ############################################ #
+
+
+
 # Assessment test for Junior Software Engineer
 
 1. Fork this repository.
